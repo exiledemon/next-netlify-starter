@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Nic Ivanov site!" />
+        <Header title="Welcome to Nic Ivanov sitesss!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
